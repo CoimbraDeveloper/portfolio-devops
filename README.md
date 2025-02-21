@@ -30,8 +30,8 @@ This repository is organized into different sections showcasing various DevOps p
 Each directory contains detailed documentation about the projects. Feel free to explore and contribute!
 
 ## 🔹 Contact
-- **GitHub:** [YourGitHubProfile](https://github.com/YourGitHubProfile)
-- **LinkedIn:** [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)
+- **GitHub:** (https://github.com/CoimbraDeveloper)
+- **LinkedIn:** (https://www.linkedin.com/in/diego-coimbra-09a5361a0/)
 
 ---
 🚀 Always learning and improving DevOps practices! Feel free to connect and collaborate.
